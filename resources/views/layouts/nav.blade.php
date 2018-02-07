@@ -24,7 +24,6 @@
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Action</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown01">
                     <a class="dropdown-item" href="/exit">Exit</a>
-                    <a class="dropdown-item" href="https://www.pornhub.com/video/search?search=fucking+mom">Fucking your mother</a>
                 </div>
             </li>
         </ul>

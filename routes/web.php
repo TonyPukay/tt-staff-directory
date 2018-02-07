@@ -46,7 +46,7 @@ Route::post('/getList', 'StaffController@getListStaff');
 //Route::post('/searchInList', 'StaffController@searchInList');
 Route::post('/searchInList', 'StaffController@searchInList');
 //Route::get('/searchInList', 'StaffController@searchInList');
-
+var
 
 Route::post('/insertStaff', 'StaffController@insertStaff');
 
